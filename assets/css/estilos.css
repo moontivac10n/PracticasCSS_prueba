@@ -1,0 +1,16 @@
+#elemento3 {
+    color: blue;
+}
+
+.titulo_rosa {
+    color: pink;
+}
+
+#parrafo_verde {
+    color: green;
+}
+
+.elementos {
+    list-style-position: inside;
+    list-style-image: url(/Users/moontivac10n/Desktop/pulgar.png);
+}
